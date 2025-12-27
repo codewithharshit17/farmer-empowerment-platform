@@ -110,23 +110,6 @@ This prevents unnecessary expenses and crop damage.
 
 ---
 
-## 🗂 Project Structure
-
-farmer-empowerment-platform/
-│
-├── backend/
-│ ├── core/ # Django project configuration
-│ ├── api/ # REST APIs (views, urls)
-│ ├── manage.py
-│ └── requirements.txt
-│
-├── frontend/ # Mobile-first web interface
-│
-└── README.md
-
-
----
-
 ## 🔗 API Design (Overview)
 
 | Endpoint | Method | Purpose |
